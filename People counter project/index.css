@@ -1,0 +1,98 @@
+body {
+    text-align: center;
+    background-image: url(https://canadarailvacations.com/upload-images/CanadaRailVacations-banner-mobile-canada-winter-train-vacations.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-size: 3em;
+    color: black;
+}
+
+#count-el{
+    font-size: 3em;
+    font-weight: bold;
+}
+
+button {
+    color: white;
+    background-color: darkred;
+    border: none;
+    width: 200px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-weight: bold;
+    font-size: 1em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#save-btn {
+    background-color: orange;
+}
+
+#history-el {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: whitesmoke;
+}
+
+#totalPeople {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: white;
+}
+
+#increment-btn{
+    background-color: darkgreen;
+}
+
+#clear-btn{
+    background-color: blue;
+}
+
+#how-many1 {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: white;
+}
+#how-many2 {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: white;
+}
+#how-many3 {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: white;
+}
+#how-many4 {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: white;
+}
+#how-many5 {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: white;
+}
+#how-many6 {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: white;
+}
+#how-many7 {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: white;
+}
+#how-many8 {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: white;
+}
+#how-many9 {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: white;
+}
