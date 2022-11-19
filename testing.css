@@ -1,0 +1,27 @@
+body{
+    background-color: grey;
+    text-align: center;
+}
+
+p{
+    font-size: 1em;
+    color: goldenrod;
+    font-weight: bold;
+}
+
+#mar-el{
+    height: 50px;
+    width: 200px;
+    background-color: #800;
+    color: white;
+    font-size: 1em;
+}
+
+#portocala-el{
+    height: 50px;
+    width: 200px;
+    background-color: goldenrod;
+    color: wheat;
+    font-size: 1em;
+}
+

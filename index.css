@@ -1,4 +1,40 @@
 body{
     text-align: center;
-    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fgreen%2F&psig=AOvVaw2eVBjWg1BYj6e2wu0KrpYO&ust=1668889746195000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODMhPXIuPsCFQAAAAAdAAAAABAE);
+    background-image: url(https://img.freepik.com/free-photo/abstract-blur-empty-green-gradient-studio-well-use-as-background-website-template-frame-business-report_1258-54629.jpg?w=360.jpg);
+    background-size: cover;
+}
+
+#blackjackh1{
+    color: goldenrod;
+}
+
+#want-el{
+    color: white;
+    font-size: 2em;
+}
+#sum-el{
+    color: white;
+    font-size: 1.5em;
+}
+
+#cards-el{
+    color: white;
+    font-size: 1.5em;
+}
+
+#player-el{
+    color: white;
+    font-size: 1.5em;
+}
+
+button {
+    background-color: goldenrod;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 150px;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 3px;
+    margin-bottom: 3px;
 }
