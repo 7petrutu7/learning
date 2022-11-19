@@ -1,0 +1,97 @@
+body{
+    height: 4000px;
+    margin: 0px;
+    padding: 0px;
+}
+
+p{
+    color: goldenrod;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+#nume{
+    margin-left: 4%;
+    position: absolute;
+    font-size: 1.2em;
+}
+
+#legamant {
+    margin-left: 20px;
+    margin-top: 50px;
+    position: absolute;
+    font-size: 1.2em;
+}
+#botezBazat{
+    margin-left: 20px;
+    margin-top: 80px;
+    position: absolute;
+    font-size: 1em;
+}
+
+#matei{
+    margin-left: 20px;
+    margin-top: 120px;
+    position: absolute;
+    font-size: 1em;
+}
+
+#marcu{
+    margin-left: 20px;
+    margin-top: 270px;
+    position: absolute;
+    font-size: 1em;
+}
+
+#fapte{
+    margin-left: 20px;
+    margin-top: 390px;
+    position: absolute;
+    font-size: 1em;
+}
+
+#nuCel {
+    margin-left: 20px;
+    margin-top: 630px;
+    position: absolute;
+    font-size: 1em;
+}
+
+#da{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 750px;
+    font-size: 1.2em;
+}
+
+#legamantCheckDa{
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 755px;
+}
+
+#nu{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 750px;
+    font-size: 1.2em;
+}
+
+#legamantCheckNu{
+    position: absolute;
+    margin-left: 290px;
+    margin-top: 755px;
+}
+
+#completeaza{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 800px;
+}
+
+#cati {
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 820px;
+}
+
