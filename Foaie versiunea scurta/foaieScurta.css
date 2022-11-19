@@ -1,0 +1,165 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#nume {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+#legamant {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+#biblia{
+    font-size: 1em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+    margin-top: -15px;
+}
+
+#check1 {
+    margin-left: 20%;
+}
+
+#check2 {
+    margin-left: 30%;
+}
+
+#check3 {
+    margin-left: 28%;
+}
+
+#catiAni {
+    font-size: 1em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+#bifeaza{
+    font-size: 1em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+#credFiu{
+    font-size: 1em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+#credMurit{
+    font-size: 1em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+#credIertare{
+    font-size: 1em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+#cunosc {
+    font-size: 1em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+#vreauPocaiesc{
+    font-size: 1em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+#vreauPazesc{
+    font-size: 1em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+#vreauLegamant{
+    font-size: 1em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+#same{
+    font-size: 1em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+#stare{
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+#alegere{
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+#check4{
+    margin-left: 15%;
+}
+#check5{
+    margin-left: 14%;
+}
+#check6{
+    margin-left: 20%;
+}
+#check7{
+    margin-left: 25%;
+}
+
+#intrebari{
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+#declar {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+#intrebare{
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+#semnatura{
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-left: 10px;
+    font-style: italic;
+}
