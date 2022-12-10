@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "description": "Use to save links ",
+    "name": "Save links",
+    "action": {
+        "default_popup": "invat.html",
+        "default_icon": "icon.png"
+    }
+
+
+
+
+}
