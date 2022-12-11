@@ -12,6 +12,8 @@ const inputEl = document.getElementById("input-el")
 const inputBtn = document.getElementById("input-btn")
 const ulEl = document.getElementById("ul-el")
 const clearBtn = document.getElementById("clear-btn")
+const tabBtn = document.getElementById("tab-btn")
+
 
 
 clearBtn.addEventListener("dblclick", function(){
@@ -21,8 +23,31 @@ clearBtn.addEventListener("dblclick", function(){
 })
 
 
+tabBtn.addEventListener("click", function(){
+
+    chrome.tabs.query({active: true, currentWindow: true}, function(tabs){
+        
+    myleads.push(tabs[0].url)
+    localStorage.setItem("myleads", JSON.stringify(myleads))
+    render(myleads)
+    
+
+
+
+    })
+
+       
+    
+})
+
+
+
+
+
+
+
+
 let leadsFromLocalStorage = JSON.parse(localStorage.getItem("myleads"))
-console.log(leadsFromLocalStorage)
 if(leadsFromLocalStorage){
     myleads = leadsFromLocalStorage
     render(myleads)
@@ -33,7 +58,6 @@ inputBtn.addEventListener("click", function(){
     myleads.push(inputEl.value)
 
     localStorage.setItem("myleads", JSON.stringify(myleads))
-    console.log(localStorage.getItem("myleads"))
     inputEl.value = ""
     
     render(myleads)
