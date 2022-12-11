@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+#inputAnunt {
+    width: 40%;
+    height: 500px;
+    border: 1px solid black;
+    background-image: url(images/g2.jpg);
+    background-size: cover;
+
+}
+p{
+    font-weight: bold;
+    color: black;
+    
+}
+
+#imgDiv{
+    
+}
+
+#anuntGata{
+    margin-top: -72%;
+    margin-left: 50%;
+    width: 40%;
+    height: 40%;
+    border: 1px solid black;
+}

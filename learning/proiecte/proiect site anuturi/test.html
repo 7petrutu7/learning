@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="test.css">
+    <title>Document</title>
+</head>
+<body>
+    <div id="inputAnunt">
+        <p>Titlu anunt</p>
+        <input id="titluinput" type="text">
+        <p>Categorie</p>
+        <input id="categorieinput" type="text">
+        <p>Pret</p>
+        <input id="pretinput" type="text">
+        <p>Descriere</p>
+        <textarea name="" id="textarea" cols="21" rows="5"></textarea>
+        <p>Imagini</p>
+        <input id="inputfile" type="file" onchange="previewFile()"><br>
+        
+        <br><br><br>
+        <button id="submit">Submit</button>
+    </div>
+    <div id="anuntGata">
+    <div id="imgDiv"></div>
+    </div>
+    <script src="test.js"></script>
+</body>
+</html>
