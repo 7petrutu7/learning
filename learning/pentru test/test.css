@@ -1,0 +1,23 @@
+body{
+    margin: 20px;
+}
+
+.imgcarte {
+    width: 150px;
+}
+
+.cartedevizita {
+    width: 500px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0px auto;
+    background-color: #ddebf8;
+    border-bottom: 5px solid#d8cefe;
+}
+
+.textcartewrapper{
+    text-align: center;
+    color: #2b2839;
+}
+

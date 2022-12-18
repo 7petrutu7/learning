@@ -51,6 +51,7 @@ let leadsFromLocalStorage = JSON.parse(localStorage.getItem("myleads"))
 if(leadsFromLocalStorage){
     myleads = leadsFromLocalStorage
     render(myleads)
+    console.log(1)
 }
 
 
